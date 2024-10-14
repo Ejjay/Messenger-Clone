@@ -24,18 +24,19 @@ const Auth = () => {
           alt="Logo"
         />
         <h2 
-          className="
-            mt-6 
-            text-center 
-            text-3xl 
-            font-bold 
-            tracking-tight 
-            text-gray-900
-          "
-          >
-            Welcome to <br> 
-         — PCMI Chats 👐 —
-        </h2>
+  className="
+    mt-6 
+    text-center 
+    text-3xl 
+    font-bold 
+    tracking-tight 
+    text-gray-900
+    sm:inline
+    md:block
+  "
+>
+  Welcome to — PCMI Chats 👐 —
+</h2>
       </div>
       <AuthForm />      
   </div>
