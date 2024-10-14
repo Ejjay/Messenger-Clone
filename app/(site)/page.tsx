@@ -33,9 +33,8 @@ const Auth = () => {
     text-gray-900
   "
 >
-  Welcome to
-  <br className="block sm:hidden" />
-  ꧁ᬊᬁPCMI Chatsᬊ᭄꧂</h2>
+  ꧁ᬊᬁWelcome toᬊ᭄꧂  <br className="block sm:hidden" />
+  PCMI Chats</h2>
       </div>
       <AuthForm />      
   </div>
