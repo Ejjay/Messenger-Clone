@@ -31,11 +31,11 @@ const Auth = () => {
     font-bold 
     tracking-tight 
     text-gray-900
-    sm:inline
-    md:block
   "
 >
-  Welcome to — PCMI Chats 👐 —
+  Welcome to
+  <br className="block sm:hidden" />
+  — PCMI Chats 👐 —
 </h2>
       </div>
       <AuthForm />      
