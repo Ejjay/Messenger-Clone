@@ -35,7 +35,7 @@ const Auth = () => {
 >
   Welcome to
   <br className="block sm:hidden" />
-  — PCMI Chats 👐 —
+  — PCMI Chats —
 </h2>
       </div>
       <AuthForm />      
