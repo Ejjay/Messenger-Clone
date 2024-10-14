@@ -33,7 +33,8 @@ const Auth = () => {
             text-gray-900
           "
           >
-            Welcome to PCMI Chats 👐
+            Welcome to <br> 
+         — PCMI Chats 👐 —
         </h2>
       </div>
       <AuthForm />      
