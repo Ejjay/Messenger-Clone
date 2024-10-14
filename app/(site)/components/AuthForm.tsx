@@ -169,8 +169,8 @@ const AuthForm = () => {
             </div>
             <div className="relative flex justify-center text-sm">
               <span className="bg-white px-2 text-gray-500">
-                Or continue with
-              </span>
+  <span className="font-bold">Or continue with</span>
+</span>
             </div>
           </div>
 
